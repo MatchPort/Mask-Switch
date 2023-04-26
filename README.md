@@ -37,5 +37,9 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Contact
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1095486777344655460)
+
 ## Enjoy!
 ❤❤
