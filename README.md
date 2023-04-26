@@ -1,7 +1,7 @@
 # Mask Switcher
 
 MS Is a simple script for FiveM servers.
-It will switch thru all masks. Mainly used for different methods of streaming custom assets
+It will switch thru all masks. Mainly used for finding clothing ids from different methods of streaming custom assets
 
 ## Installation
 
