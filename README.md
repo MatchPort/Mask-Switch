@@ -12,6 +12,7 @@ put it into your resources folder and add this code to your server.cfg file:
 ```lua
 start mask_finder
 ```
+Then restart your server.
 
 ## Usage
 
