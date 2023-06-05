@@ -38,9 +38,8 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Contact
+## Only Tested On QBCORE
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1095486777344655460)](https://discord.com/users/1095486777344655460)
 
 ## Enjoy!
 ❤❤!
